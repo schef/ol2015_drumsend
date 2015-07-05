@@ -1,0 +1,1508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UndoHistory>
+  <UndoTransaction tv-sec="1432489129" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197324864" end="197324864" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="307" left-frame="197160005" y-origin="0.000000">
+        <Selection>
+          <Region id="3707"/>
+          <Marker id="3660" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="307" left-frame="197160005" y-origin="0.000000">
+        <Selection>
+          <Region id="3707"/>
+          <Marker id="3660" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432489219" tv-usec="0" name="normalize">
+    <StatefulDiffCommand obj-id="3707" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.358051866293"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="9824" left-frame="202590528" y-origin="0.000000">
+        <Selection>
+          <Region id="3707"/>
+          <Marker id="3660" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="9824" left-frame="202590528" y-origin="0.000000">
+        <Selection>
+          <Region id="3707"/>
+          <Marker id="3660" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432489361" tv-usec="0" name="normalize">
+    <StatefulDiffCommand obj-id="3681" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.995560050011"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1455" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.73004680872"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1403" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.724438428879"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1347" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.71782553196"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1306" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.71782553196"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1218" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.965214550495"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1183" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.71782553196"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1111" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.712030887604"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1077" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.06393170357"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1005" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.708551228046"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="963" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.06393170357"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="918" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.06393170357"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="840" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.08143985271"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="759" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.985051691532"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="695" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.707945764065"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="608" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.19153356552"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="533" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.883395552635"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="493" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.71782553196"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="426" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.71782553196"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="356" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.712030887604"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="251" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.707945764065"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="210" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.06393170357"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="3707" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="0.358051866293" to="0.401740729809"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1429" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.819137275219"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1244" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.708616137505"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1137" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.712030887604"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="1031" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.3067804575"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="866" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.708551228046"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="785" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.941093981266"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="721" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.707945764065"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="634" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="1.25117123127"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="559" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.806016683578"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="382" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.712052762508"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <StatefulDiffCommand obj-id="316" type-name="ARDOUR::AudioRegion">
+      <Changes>
+        <scale-amplitude from="1" to="0.707945764065"/>
+      </Changes>
+    </StatefulDiffCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="157184" left-frame="0" y-origin="0.000000">
+        <Selection>
+          <Region id="3681"/>
+          <Region id="1455"/>
+          <Region id="1403"/>
+          <Region id="1347"/>
+          <Region id="1306"/>
+          <Region id="1218"/>
+          <Region id="1183"/>
+          <Region id="1111"/>
+          <Region id="1077"/>
+          <Region id="1005"/>
+          <Region id="963"/>
+          <Region id="918"/>
+          <Region id="840"/>
+          <Region id="759"/>
+          <Region id="695"/>
+          <Region id="608"/>
+          <Region id="533"/>
+          <Region id="493"/>
+          <Region id="426"/>
+          <Region id="356"/>
+          <Region id="251"/>
+          <Region id="210"/>
+          <Region id="3707"/>
+          <Region id="1429"/>
+          <Region id="1244"/>
+          <Region id="1137"/>
+          <Region id="1031"/>
+          <Region id="866"/>
+          <Region id="785"/>
+          <Region id="721"/>
+          <Region id="634"/>
+          <Region id="559"/>
+          <Region id="382"/>
+          <Region id="316"/>
+          <Marker id="3660" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="157184" left-frame="0" y-origin="0.000000">
+        <Selection>
+          <Region id="3681"/>
+          <Region id="1455"/>
+          <Region id="1403"/>
+          <Region id="1347"/>
+          <Region id="1306"/>
+          <Region id="1218"/>
+          <Region id="1183"/>
+          <Region id="1111"/>
+          <Region id="1077"/>
+          <Region id="1005"/>
+          <Region id="963"/>
+          <Region id="918"/>
+          <Region id="840"/>
+          <Region id="759"/>
+          <Region id="695"/>
+          <Region id="608"/>
+          <Region id="533"/>
+          <Region id="493"/>
+          <Region id="426"/>
+          <Region id="356"/>
+          <Region id="251"/>
+          <Region id="210"/>
+          <Region id="3707"/>
+          <Region id="1429"/>
+          <Region id="1244"/>
+          <Region id="1137"/>
+          <Region id="1031"/>
+          <Region id="866"/>
+          <Region id="785"/>
+          <Region id="721"/>
+          <Region id="634"/>
+          <Region id="559"/>
+          <Region id="382"/>
+          <Region id="316"/>
+          <Marker id="3660" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497552" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Region id="1403"/>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Region id="1403"/>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497553" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Region id="1403"/>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Region id="1403"/>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497554" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Region id="1403"/>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Region id="1403"/>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497555" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497557" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497558" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497559" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497560" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497561" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497565" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497566" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497570" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497571" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497575" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180633600" end="180633600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180721800" end="180721800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497582" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180721800" end="180721800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180697854" end="180697854" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497595" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180697854" end="180697854" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180741448" end="180741448" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv-sec="1432497601" tv-usec="0" name="move marker">
+    <MementoCommand obj-id="13" type-name="ARDOUR::Locations">
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180741448" end="180741448" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+      <Locations>
+        <Location id="186" name="iDontMean" start="176400" end="176400" flags="IsMark" locked="no" position-lock-style="AudioTime"/>
+        <Location id="221" name="session" start="176400" end="220957751" flags="IsSessionRange" locked="no" position-lock-style="AudioTime"/>
+        <Location id="230" name="handsHigh" start="4939200" end="4939200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="335" name="mnogoVise" start="13193376" end="13193376" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="463" name="cash" start="23637600" end="23637600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="475" name="smoethingSpecial" start="36691200" end="36691200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="515" name="breakMyPride" start="47098800" end="47098800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="587" name="croatia" start="55389600" end="55389600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="673" name="plafon" start="64209600" end="64209600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="798" name="kadBiBarem" start="72765000" end="72765000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="819" name="lavishLove" start="81937800" end="81937800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="897" name="tiSiMeniSve" start="91728000" end="91728000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="937" name="notLikeThis" start="102312000" end="102312000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="982" name="lastTime" start="113248800" end="113248800" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1056" name="amateurSoul" start="124097400" end="124097400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1090" name="bezBoli" start="132476400" end="132476400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1162" name="blurredVision" start="141825600" end="141825600" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1196" name="free" start="153909000" end="153909000" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1285" name="grow" start="163346400" end="163346400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1325" name="haveMearcy" start="174724200" end="174724200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1380" name="mentToBe" start="180753728" end="180753728" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="1480" name="mentToBeJoleVerzija" start="190600200" end="190600200" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="2571" name="iDontMean" start="176400" end="176400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+        <Location id="3660" name="184" start="197303400" end="197303400" flags="IsMark,IsCDMarker" locked="no" position-lock-style="AudioTime"/>
+      </Locations>
+    </MementoCommand>
+    <MementoCommand obj-id="19" type-name="SelectionMemento">
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+      <SelectionMemento mouse-mode="MouseObject" zoom="614" left-frame="180587224" y-origin="0.000000">
+        <Selection>
+          <Marker id="1380" start="yes"/>
+        </Selection>
+      </SelectionMemento>
+    </MementoCommand>
+  </UndoTransaction>
+</UndoHistory>

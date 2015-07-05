@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instant>
+  <Editor id="18" mixer-width="Wide" zoom-focus="ZoomFocusMouse" zoom="157184" snap-to="SnapToBeat" snap-mode="SnapNormal" internal-snap-to="SnapToBeat" internal-snap-mode="SnapNormal" pre-internal-snap-to="SnapToBar" pre-internal-snap-mode="SnapOff" edit-point="EditAtMouse" visible-track-count="-1" playhead="176400" left-frame="0" y-origin="0.000000" show-measures="yes" maximised="no" follow-playhead="no" stationary-playhead="no" region-list-sort-type="ByEndInFile" mouse-mode="MouseContent" join-object-range="no" show-editor-mixer="no" show-editor-list="no" editor-list-page="0" show-marker-lines="no" nudge-clock-value="220500">
+    <geometry x-size="1280" y-size="736" x-pos="0" y-pos="27" edit-horizontal-pane-pos="895" notebook-shrunk="0" edit-vertical-pane-pos="503"/>
+    <Buttons>
+      <Press/>
+      <Release/>
+    </Buttons>
+    <Selection>
+      <Marker id="1380" start="yes"/>
+    </Selection>
+    <RegionList sort-type="ByEndInFile" sort-ascending="yes" show-all="no" show-automatic-regions="yes"/>
+  </Editor>
+  <Mixer narrow-strips="no" show-mixer="no" maximised="no"/>
+  <Meterbridge show-meterbridge="no">
+    <geometry x-size="600" y-size="400" x-pos="1" y-pos="1"/>
+  </Meterbridge>
+</instant>
